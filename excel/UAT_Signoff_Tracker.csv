@@ -1,4 +1,4 @@
-Area,Test IDs Covered,Tester Name,Role,Pass Count,Fail Count,Pending Count,Sign-off Date,Status,Comments
+Area,Test IDs Covered,Tester Name,Role,Pass,Fail,Pending,Sign-off Date,Status,Comments
 Module 1 — Registration,"UAT-01, UAT-02",,Field Agent,,,,, Pending,
 Module 2 — Health,"UAT-03, UAT-04",,Field Agent,,,,,Pending,
 Module 3 — Education,UAT-05,,Field Agent,,,,,Pending,
@@ -6,7 +6,7 @@ Module 5 — Environment,UAT-06,,Field Agent,,,,,Pending,
 Module 6 — Grievances (6A/6B),"UAT-07, UAT-08",,Field Agent + Supervisor,,,,,Pending,
 Module 6 — Consultation (6C),UAT-09,,Site Supervisor,,,,,Pending,
 Offline & Sync,UAT-10,,Field Agent,,,,,Pending,
-Role-Based Access Control,UAT-11,,UAT Coordinator,,,,,Pending,
-Web Dashboard & KPIs,"UAT-12, UAT-13",,CSR Manager,,,,,Pending,
+RBAC,UAT-11,,UAT Coordinator,,,,,Pending,
+Dashboard & KPIs,"UAT-12, UAT-13",,CSR Manager,,,,,Pending,
 GRI 14 Export,UAT-12-12.10,,CSR Manager,,,,,Pending,
-OVERALL UAT SIGN-OFF,All,,CSR Manager + Project Lead,,,,,Pending,
+OVERALL SIGN-OFF,All,,CSR Manager + Lead,,,,,Pending,
