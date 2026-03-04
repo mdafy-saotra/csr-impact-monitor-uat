@@ -1,2 +1,4 @@
-Defect ID,Test ID,Module,Severity,Title,Steps to Reproduce,Expected Result,Actual Result,Screenshot/Evidence,Reported By,Date Reported,Assigned To,Status,Resolution,Date Resolved
+Defect ID,Test ID,Module,Severity,Title,Steps to Reproduce,Expected Result,Actual Result,Evidence,Reported By,Date Reported,Assigned To,Status,Resolution,Date Resolved
 DEF-001,,,,,,,,,,,,Open,,
+DEF-002,,,,,,,,,,,,Open,,
+DEF-003,,,,,,,,,,,,Open,,
