@@ -1,1 +1,36 @@
+Field,Value
+Project,CSR Impact Monitor (CommCare MVP)
+Version,1.0
+Date,March 2026
+Prepared By,UAT Coordinator
 
+OVERALL METRICS,
+Total Test Cases,48
+Critical,14
+High,25
+Medium,9
+
+MODULE COVERAGE,
+Module,Total Tests
+Module 1 — Registration,10
+Module 2 — Health,6
+Module 3 — Education,4
+Module 5 — Environment,5
+Module 6 — Grievances/Engagement,8
+Offline & Sync,1
+RBAC,2
+Dashboard & KPIs,7
+Module 4 — Livelihood,Pending Q2 2026
+
+EXIT CRITERIA,Status
+All P1 Critical pass,Pending
+All P2 Major resolved,Pending
+Dashboard KPIs validated,Pending
+CSR Manager sign-off,Pending
+GRI 14 export validated,Pending
+
+UAT GO/NO-GO DECISION,
+Decision,Pending
+Decision Date,
+Approved By,
+Comments,
